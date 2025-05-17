@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsMushi
+- 👋 Hi, I’m Isaac MUSHMIYIMANA
 - 👀 I’m interested in web development as a full-stack developer and mobile app development.
 - 🌱 I’m currently learning face recognition in React Native, SVG for web development, cybersecurity, and integration in mathematics.
 - 💞️ I’m looking to collaborate on projects related to e-commerce, chat systems, booking platforms, and innovative tech solutions that help people, especially in Rwanda.
